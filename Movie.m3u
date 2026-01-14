@@ -9,5 +9,19 @@ https://unifi-vod.secureswiftcontent.com/content/pubcontent/vol/ED16AE05-2C17-49
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=82ce539b32974515b24b03596435ff7d:fb660532d3cae3dc6baa5e048fa38fe8
-#EXTINF:-1 group-title="Malay Movies" tvg-logo="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/82CE539B-3297-4515-B24B-03596435FF7D/0-16x9.jpg?width=246&updatedTime=undefined",Salam Cinta
+#EXTINF:-1 group-title="Malay Movies" tvg-logo="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/82CE539B-3297-4515-B24B-03596435FF7D/0-2x3.jpg?width=246&updatedTime=undefined",Salam Cinta
 https://unifi-vod.secureswiftcontent.com/content/pubcontent/vol/82CE539B-3297-4515-B24B-03596435FF7D/1754885607628-output_cenc_dash.ism/index.mpd?python_pipeline_config=ttml_removal&suppress_query_parameters
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=
+#EXTINF:-1 group-title="Malay Movies" tvg-logo="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/6D59EED5-B852-4D34-A346-D720D49F677F/0-2x3.jpg?width=246&updatedTime=undefined",Ayam Goreng Abah
+https://unifi-vod.secureswiftcontent.com/content/pubcontent/vol/EE00CD43-9F6E-4730-87D6-2ECAFD746861/1759822995349-output_dash.ism/index.mpd?python_pipeline_config=ttml_removal&suppress_query_parameters
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=
+#EXTINF:-1 group-title="Malay Movies" tvg-logo="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/93BF8003-4D13-4850-B654-C28D20A31F2A/0-2x3.jpg?width=246&updatedTime=undefined",Elhan Untuk Nian
+https://unifi-vod.secureswiftcontent.com/content/pubcontent/vol/93BF8003-4D13-4850-B654-C28D20A31F2A/1749749640425-output_cenc_dash.ism/index.mpd?python_pipeline_config=ttml_removal&suppress_query_parameters
