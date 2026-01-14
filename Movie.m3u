@@ -14,14 +14,12 @@ https://unifi-vod.secureswiftcontent.com/content/pubcontent/vol/82CE539B-3297-45
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=
 #EXTINF:-1 group-title="Malay Movies" tvg-logo="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/6D59EED5-B852-4D34-A346-D720D49F677F/0-2x3.jpg?width=246&updatedTime=undefined",Ayam Goreng Abah
 https://unifi-vod.secureswiftcontent.com/content/pubcontent/vol/EE00CD43-9F6E-4730-87D6-2ECAFD746861/1759822995349-output_dash.ism/index.mpd?python_pipeline_config=ttml_removal&suppress_query_parameters
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=
+#KODIPROP:inputstream.adaptive.license_key=93bf80034d134850b654c28d20a31f2a:069f021eff156cc16315dea7fe13f5bd
 #EXTINF:-1 group-title="Malay Movies" tvg-logo="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/93BF8003-4D13-4850-B654-C28D20A31F2A/0-2x3.jpg?width=246&updatedTime=undefined",Elhan Untuk Nian
 https://unifi-vod.secureswiftcontent.com/content/pubcontent/vol/93BF8003-4D13-4850-B654-C28D20A31F2A/1749749640425-output_cenc_dash.ism/index.mpd?python_pipeline_config=ttml_removal&suppress_query_parameters
