@@ -4,3 +4,10 @@
 #KODIPROP:inputstream.adaptive.license_key=ed16ae052c17496189135b2bbb482481:1d525f7650ce402d5be49cb5f9322756
 #EXTINF:-1 group-title="Malay Movies" tvg-logo="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/ED16AE05-2C17-4961-8913-5B2BBB482481/0-2x3.jpg?width=246&updatedTime=undefined",Waris Makrifat
 https://unifi-vod.secureswiftcontent.com/content/pubcontent/vol/ED16AE05-2C17-4961-8913-5B2BBB482481/1764520433425-output_cenc_dash.ism/index.mpd?python_pipeline_config=ttml_removal&suppress_query_parameters
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=82ce539b32974515b24b03596435ff7d:fb660532d3cae3dc6baa5e048fa38fe8
+#EXTINF:-1 group-title="Malay Movies" tvg-logo="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/82CE539B-3297-4515-B24B-03596435FF7D/0-16x9.jpg?width=540&updatedTime=undefined",Salam Cinta
+https://unifi-vod.secureswiftcontent.com/content/pubcontent/vol/82CE539B-3297-4515-B24B-03596435FF7D/1754885607628-output_cenc_dash.ism/index.mpd?python_pipeline_config=ttml_removal&suppress_query_parameters
