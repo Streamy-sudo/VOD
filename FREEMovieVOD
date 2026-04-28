@@ -23,3 +23,11 @@ https://unifi-vod.secureswiftcontent.com/content/pubcontent/vol/EE00CD43-9F6E-47
 #KODIPROP:inputstream.adaptive.license_key=93bf80034d134850b654c28d20a31f2a:069f021eff156cc16315dea7fe13f5bd
 #EXTINF:-1 group-title="Malay Free Movies" tvg-logo="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/93BF8003-4D13-4850-B654-C28D20A31F2A/0-2x3.jpg?width=246&updatedTime=undefined",Elhan Untuk Nian
 https://unifi-vod.secureswiftcontent.com/content/pubcontent/vol/93BF8003-4D13-4850-B654-C28D20A31F2A/1749749640425-output_cenc_dash.ism/index.mpd?python_pipeline_config=ttml_removal&suppress_query_parameters
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=749957666c82403381563d4841a908fe:2d1d6869ddc8836be1b461126076812c
+#EXTINF:-1 group-title="Malay Free Movies" tvg-logo="https://image-resizer-cloud-cdn.api.tmcms.quickplay.com/image/74995766-6C82-4033-8156-3D4841A908FE/0-16x9.jpg?width=341&updatedTime=undefined",Tuhan Aku Ingin Menulis
+https://unifi-vod.secureswiftcontent.com/content/pubcontent/vol/74995766-6C82-4033-8156-3D4841A908FE/1751351817656-output_cenc_dash.ism/index.mpd?python_pipeline_config=ttml_removal&suppress_query_parameters
+
